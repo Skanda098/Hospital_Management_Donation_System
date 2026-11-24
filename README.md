@@ -16,7 +16,10 @@ Developed as an Alternate Assessment Tool (AAT) mini-project for **Object-Orient
 6. **File-Based Audit Reports:** Export formatted inventory and expiry alert reports (`.txt`) to the local `reports/` directory using buffered byte streams[cite: 1, 10].
 
 ---
+## Preview : <br>
+<img height="400" alt="Screenshot 2026-11-24 204844" src="https://github.com/user-attachments/assets/7d5dd0e6-1f8a-43e0-b56b-8cf4f1b56f7f" />
 
+---
 ## Tech Stack
 
 * **Language:** Java 21 (LTS)
