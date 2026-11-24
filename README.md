@@ -133,5 +133,5 @@ Once the desktop window opens, verify all modules using the pre-loaded seed data
 ## Troubleshooting
 
 * **`Communications link failure` / `Access denied for user`:** Verify that the MySQL service is running and that `db.username` and `db.password` in `src/main/resources/db.properties` match your MySQL Workbench login.
-* **Red underline on `package com.meddonate...`:** Ensure you opened the root `MedicineDonationSystem` folder directly in VS Code (not a parent folder) and run **Java: Clean Java Language Server Workspace**.
+* **Red underline on `package com.meddonate...`:** Ensure you opened the root `MedicineDonationSystem` folder directly in VS Code (not a parent folder) press ctrl+shift+P and run **Java: Clean Java Language Server Workspace**.
 * **Missing FlatLaf or MySQL driver classes:** Run `mvn clean compile` in the terminal to force Maven to download dependencies.
